@@ -14,7 +14,7 @@ public class Array03 {
         //printing elements
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 5; j++) {
-                System.out.print(" "+numbers[i][j]);
+                System.out.print(" " + numbers[i][j]);
             }
             System.out.println();
         }

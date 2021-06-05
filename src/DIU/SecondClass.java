@@ -12,7 +12,7 @@ public class SecondClass {
         System.out.println(a);
         System.out.println((double) a);
         int b;
-        b=+3;
+        b = +3;
         System.out.println(b);
 
 //        double cgpa = 3.5;

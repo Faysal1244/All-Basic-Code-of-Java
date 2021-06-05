@@ -3,7 +3,7 @@ package String;
 public class StringDemo01 {
     public static void main(String[] args) {
         String s1 = "Faysal Rahman";
-        String s2 = new String("Faysal Rahman");
+        String s2 = "Faysal Rahman";
         char[] s3 = {'a', 'b', 'c', 'h', 'f'};
 
         System.out.println("S1: " + s1);
@@ -50,7 +50,7 @@ public class StringDemo01 {
         //Is Empty Methods
         boolean b;
         b = s1.isEmpty();
-        System.out.println("b ="+b);
+        System.out.println("b =" + b);
 
 
     }

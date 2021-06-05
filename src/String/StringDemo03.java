@@ -14,9 +14,9 @@ public class StringDemo03 {
         System.out.println("Value =" + value);
 
         int pos = country.indexOf('n');
-        System.out.println("First Position of n ="+pos);
+        System.out.println("First Position of n =" + pos);
 
         pos = country.lastIndexOf('n');
-        System.out.println("Last Index of n = "+pos);
+        System.out.println("Last Index of n = " + pos);
     }
 }
