@@ -8,13 +8,11 @@ public class Teacher {
     Teacher() {
         System.out.println("No Information");
     }
-
     Teacher(String n, int ph) {
         name = n;
         phone = ph;
 
     }
-
     Teacher(String n, String g, int ph) {
         name = n;
         gender = g;
